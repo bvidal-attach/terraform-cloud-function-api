@@ -1,0 +1,11 @@
+{
+  "name": "terraform-cloud-function-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@work.github.com:bvidal-attach/terraform-cloud-function-api.git",
+  "author": "Brando Vidal <yisusdracon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.22.0"
+  }
+}
